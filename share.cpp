@@ -7,5 +7,6 @@ int main()
   c=a+b;
   printf "Addition is:",c;
   printf ("welcome to gitHub");
+  printf("This is an update in local app");
   
 }
